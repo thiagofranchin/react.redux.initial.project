@@ -1,4 +1,4 @@
-Chat Indicadores Web
+React Redux Initial Project
 ========
 
 Pré-requisitos
@@ -9,7 +9,7 @@ Pré-requisitos
 Rodando local
 --------------
 
-1 -Dê um clone no projeto com o comando `git clone git@github.com:ingaia/chat.indicadores.web.git`.
+1 -Dê um clone no projeto com o comando `git clone git@github.com:thiagofranchin/react.redux.initial.project.git`.
 
 2 - Na pasta do projeto entre com o comando `npm install` para baixar as dependências.
 
